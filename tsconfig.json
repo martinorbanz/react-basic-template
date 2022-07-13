@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "outDir": "./dist",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "target": "ES5",
+    "baseUrl": ".",
+    "moduleResolution": "node"
+  }
+}
